@@ -374,6 +374,33 @@ int main()
             break;
         }
     }
+    cout<<"Работа с двумерным массивом объектов класса"<<endl;
+    icecream ice_array_2[2][3];
+    for(int i=0;i<3;++i)
+    for(int j=0;j<2;++j){
+        cout<<"Напишите номер варианта действия:"<<endl;
+        cout<<"1. Ввести новые данные о мороженом"<<endl;
+        cout<<"2. Вывести существующие данные"<<endl;
+        cout<<"3. Вывести дату поставки существующего мороженого"<<endl;
+        cin>>choice;
+        switch(choice){
+        case 1:
+            ice_array_2[i][j].Init_icecream_in();
+            ice_array_2[i][j].Display();
+            break;
+        case 2:
+            ice_array_2[i][j] = icecream();
+            ice_array_2[i][j].Display();
+            break;
+        case 3:
+            ice_array_2[i][j] = icecream();
+            ice_array_2[i][j].output_date_postavk();
+            break;
+        default:
+            cout<<"Введите 1, 2 или 3"<<endl;
+            break;
+        }
+    }
     /*icecream ice1;
     ice1.Init_icecream_in();
     ice1.Display();*/
