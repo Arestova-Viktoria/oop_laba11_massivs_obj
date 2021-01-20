@@ -1,0 +1,7 @@
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\bin\Debug\OOP_laba10_cs.exe.config
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\bin\Debug\OOP_laba10_cs.exe
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\bin\Debug\OOP_laba10_cs.pdb
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\obj\Debug\OOP_laba10_cs.csprojAssemblyReference.cache
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\obj\Debug\OOP_laba10_cs.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\obj\Debug\OOP_laba10_cs.exe
+C:\Program Files (x86)\progme\OOP_laba10_cs\OOP_laba10_cs\OOP_laba10_cs\obj\Debug\OOP_laba10_cs.pdb
